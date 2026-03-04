@@ -35,4 +35,16 @@ export const projects: Project[] = [
     description: "Pipe & supply company demo",
     liveUrl: "https://mesa-valley-pipe-and-supply.vercel.app/",
   },
+  {
+    id: "5",
+    name: "Zapier Automation Flow",
+    description: "Automated workflow demo built with Zapier",
+    liveUrl: "https://youtu.be/PepK9wNVKcQ",
+  },
+  {
+    id: "6",
+    name: "C Server — Divinity of Jesus",
+    description: "Low-level HTTP server written in C",
+    liveUrl: "https://github.com/ll-Kobe-ll/c-server-Divinity-of-Jesus",
+  },
 ];
