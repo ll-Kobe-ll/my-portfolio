@@ -23,7 +23,7 @@ export default function Navbar() {
           onClick={() => scrollTo("hero")}
           className="text-base font-bold text-gray-900 dark:text-white tracking-tight hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
         >
-          Kobe McKinzie
+          Kobe M.
         </button>
         <div className="flex items-center gap-6">
           <button

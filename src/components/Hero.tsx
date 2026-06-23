@@ -15,7 +15,7 @@ export default function Hero() {
         </span>
       </div>
       <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold text-gray-900 dark:text-white tracking-tight leading-none">
-        Kobe McKinzie
+        Kobe M.
       </h1>
       <p className="mt-5 text-xl sm:text-2xl text-gray-500 dark:text-gray-400 max-w-xl font-light">
         Full-Stack Developer — React, Next.js, Tailwind

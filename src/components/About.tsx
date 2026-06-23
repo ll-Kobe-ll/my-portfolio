@@ -2,13 +2,13 @@ const skillGroups = [
   {
     label: "Shipped Projects With",
     description: "Used in real client work, AI-assisted workflow, solid conceptual grasp",
-    skills: ["React", "Next.js", "Tailwind CSS", "Node.js", "JavaScript", "TypeScript", "Python", "SQL", "MongoDB", "Supabase", "Vercel", "Zapier", "n8n", "LLM Tooling"],
+    skills: ["React", "Next.js", "Tailwind CSS", "HTML / CSS", "Responsive Design", "JavaScript", "TypeScript", "Node.js", "REST APIs", "Webhooks", "Python", "SQL", "MongoDB", "Supabase", "Google Sheets API", "CRM Integration", "Zapier", "n8n", "Git / GitHub", "Cloudflare", "DNS / Domain Setup", "Vercel", "Claude / Anthropic API", "LLM Tooling"],
     pill: "bg-gray-900 text-white dark:bg-white dark:text-gray-900",
   },
   {
     label: "Explored for the Love of It",
     description: "Went deeper here out of genuine curiosity, concepts over fluency",
-    skills: ["C++", "C#", "Unity", "Roblox Studio", "Networking & Sockets", "PC Hardware"],
+    skills: ["C", "C++", "C#", "Unity", "Roblox Studio", "HTTP / Protocol Internals", "Networking & Sockets", "PC Hardware"],
     pill: "bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 border border-gray-300 dark:border-gray-600",
   },
   {
